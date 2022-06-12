@@ -1,0 +1,11 @@
+app:
+  name: spring boot application
+  api:
+    title: Spring CRUD APIs
+    version: 1.0.0
+    description: Book and Comment description
+    base-package: com.crud.springmvc
+    contact-name: Krutesh Thakkar
+    contact-email: krutesh111@yahoo.co.in
+    swagger:
+      enable: true
